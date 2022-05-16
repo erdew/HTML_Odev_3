@@ -1,0 +1,40 @@
+h1 {
+  color: brown;
+}
+
+p strong {
+  color: brown;
+}
+
+header {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 1600px;
+}
+
+article {
+  margin-left: 25%;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0;
+}
+
+article span {
+  padding-left: 20px;
+  color: brown;
+}
+
+.article_2 {
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+}
+
+.article_2 h2 {
+  margin-left: auto;
+}
+
+.article_2 h4 {
+  color: brown;
+}
